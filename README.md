@@ -10,7 +10,7 @@ Incoming SWE Intern @ Manulife (Summer 2026)
 - [PalateMap](https://github.com/pranavpatnaik1/PalateMap) — ML-based menu recommendation system using Word2Vec (1st place @ APEERS’ Solstice, 490 participants)
 
 ### 😄 Interests
-- I'm primarily interested in backend systems and data-driven products. I want to get further into machine learning and ML engineering in the future.
+- I'm interested in backend systems, data-driven products, and exploring machine learning
 - Outside of CS, I enjoy sports, music, reading, and travelling
 
 ### 📫 How to reach me
