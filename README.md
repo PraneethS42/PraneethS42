@@ -1,13 +1,14 @@
 ### Hi, I'm Praneeth 👋
 
 CS @ UofT St.George <br>
-Incoming SWE Intern @ Manulife (Summer 2026)
+Prev. SWE Intern @ Manulife (Summer 2025 & 2026)
+Looking for 2027 Internships!
 
 ### 🔭 My Projects
-- ChatITSM — Internal GenAI assistant used by 500+ employees
-- [PythonTA](https://github.com/pyta-uoft/pyta) — Worked under Prof. [David Liu](https://github.com/david-yz-liu) on static analysis checkers, diagnostics and a LSP reporter/plugin
-- [GitChores](https://github.com/peterlee42/GitChores) — Task management app with Clean Architecture + AWS
+- ChatITSM — Internal GenAI assistant at Manulife used by 500+ employees
+- [PythonTA](https://github.com/pyta-uoft/pyta) — Working under Prof. [David Liu](https://github.com/david-yz-liu) on static analysis checkers, diagnostics and a LSP reporter/plugin
 - [PalateMap](https://github.com/pranavpatnaik1/PalateMap) — ML-based menu recommendation system using Word2Vec (1st place @ APEERS’ Solstice, 490 participants)
+- [GitChores](https://github.com/peterlee42/GitChores) — Task management app with Clean Architecture + AWS
 
 ### 😄 Interests
 - I'm interested in backend systems, data-driven products, and exploring machine learning
